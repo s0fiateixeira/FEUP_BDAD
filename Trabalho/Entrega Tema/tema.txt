@@ -1,0 +1,9 @@
+O espaço é composto por várias salas, com número, lotação, tipologia e dimensões.
+Salas têm 1 evento cultural, simultaneamente.
+Os eventos (concertos ou exposições) têm data e hora de início e fim.
+As salas oferecem variados serviços (bengaleiro c/ perdidos e achados, bar, bilheteira...),
+e têm número máximo de staff e as horas de trabalho de cada um.
+Das pessoas sabe-se nome, telemóvel, ID e idade, do staff sabe-se a área de trabalho, morada,
+IBAN, o NIF e a remuneração por hora, dos espectadores o NIF e dos artistas a área de trabalho.
+Bilhetes têm um tipo para diferentes tipos de eventos e o nome do espectador é associado a este,
+assim como se foi utilizado.

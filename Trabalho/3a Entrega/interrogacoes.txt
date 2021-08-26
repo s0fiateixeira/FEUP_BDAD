@@ -1,0 +1,29 @@
+1 - Listar os nomes e idades dos espectadores;
+2 - Ver os artistas que têm a área de trabalho de pintura;
+3 - Duração de cada evento;
+4 - Número máximo de bilhetes vendidos para um evento cultural;
+5 - Listar membros do staff que também foram espectadores;
+6 - Ver quantas vezes trabalhou um membro de staff específico;
+7 - Mostrar os nomes do staff as horas de trabalho e o dia em que trabalharam;
+8 - Qual o mês em que o ordenado de um membro do staff foi mais elevado e quanto foi o valor;
+9 - Qual o valor total dos ordenados de um certo mês;
+10 - Quantos eventos foram realizados em que foi necessário ter mais de 18 anos.
+
+
+
+
+
+ - quais os eventos que decorreram ao mesmo tempo (em salas diferentes) - YES
+ - membros do staff com o ordenado superior à média 		 	 - YES
+ - quais os artistas que trabalharam lá menos vezes			 - YES
+ - quais os espectadores que foram a todos os eventos do tipo exposicao fotográfica 
+ - taxa de ocupaçao das salas em cada evento				 - YES
+ - qual o evento favorito
+
+
+
+
+
+triggers - complete disjoint dos eventos
+interrogações - melhorar as interrogações todas
+
